@@ -1,6 +1,6 @@
 <?php
 return array(
-    "appName" => "New Application",
+    "appName" => "Stashportation",
     "baseUrl" => null,
     
     "db" => array(
